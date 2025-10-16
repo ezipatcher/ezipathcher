@@ -1,5 +1,10 @@
 <!-- ✨ Profile README for ezipatcher ✨ -->
-<img src="https://raw.githubusercontent.com/ezipatcher/ezipatcher/main/banner.png" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ezipatcher/ezipatcher/main/A_digital_graphic_design_header_showcases_Rupam_Go.png" alt="ezipatcher banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0AFF9D&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Rupam+Gope+👋;aka+ezipatcher;Electronics+%26+Comm
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0AFF9D&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Rupam+Gope+👋;aka+ezipatcher;Electronics+%26+Communication+Student;Tech+Learner+%7C+Builder+%7C+Creator" alt="Typing SVG" />
