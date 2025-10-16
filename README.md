@@ -17,7 +17,7 @@ Curious, disciplined, and learning my way through the chaos of circuits ⚡ + co
 ## 🧠 What I’m Currently Doing
 - 🛠️ Exploring **IoT and Embedded Systems**  
 - 🌐 Learning **Backend Development** (Python + Flask)  
-- 🎯 Polishing my problem-solving in **C++**  
+- 🎯 Polishing my problem-solving in **python**  
 - 🎬 Sharing learning bites on my YouTube: **Just Ask Brain**  
 
 ---
